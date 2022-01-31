@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style4.css">
     <title>อบต.บ้านใหม่</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -57,12 +57,11 @@
                 <img src="img/bgmanager.png" alt="">
                 <img id="bgmng" src="img/bgmanager.png" alt="">
             </div>
-            <div class="container">
-                
+            <div class="container">  
                 <div class="announce">
                     <div class="col-12">
                         <div id="tflex" class="row">
-                        <div class="col-10">
+                            <div class="col-10">
                                 <p class="txtan">องค์การบริหารส่วนตำบลบ้านใหม่ ยินดีต้อนรับทุกท่าน ..</p>
                             </div>
                             <div class="col-2">
@@ -172,6 +171,15 @@
             </div>
             <div class="imageContenttop">
                 <div class="rectangleContent"></div>
+            </div>
+            <div class="bgcontent">
+                <div><img src="img/bgcontent.png" alt=""></div>
+            </div>
+            <div class="bgfooter">
+                <div><img src="img/bgfooter.png" alt=""></div>
+            </div>
+            <div class="bgfooter-pic">
+                <div><img src="img/footer pic.png" alt=""></div>
             </div>
             <div class="container">
                 <div class="bodyContent">
@@ -689,11 +697,306 @@
                             </div>
                         </div>
 
+                        <div id="cttop" class="row">
+                            <div class="col-sm-9">
+                                <div id="dtbt" class="row">
+                                    <div class="col-3">
+                                        <div class="rectangleE">
+                                            <div class="G"></div>
+                                            <br>
+                                            <p class="H"></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <div class="rectangleF">
+                                            <div class="I"></div>
+                                            <br>
+                                            <p class="J"></p>
+                                        </div>
+                                    </div>                   
+                                </div>
+                                <div id="distance2" class="row">
+                                    <div class="col-3">
+                                        <div class="date" >
+                                            <div><img src="img/ico_time.svg" alt=""></div>
+                                            <div class="txtdate">30 พ.ศ 2564</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-9">
+                                        <div class="des4-1">
+                                            <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs…</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="distance2" class="row">
+                                    <div class="col-3">
+                                        <div class="date" >
+                                            <div><img src="img/ico_time.svg" alt=""></div>
+                                            <div class="txtdate">30 พ.ศ 2564</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-9">
+                                        <div class="des4-1">
+                                            <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs…</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="distance2" class="row">
+                                    <div class="col-3">
+                                        <div class="date" >
+                                            <div><img src="img/ico_time.svg" alt=""></div>
+                                            <div class="txtdate">30 พ.ศ 2564</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-9">
+                                        <div class="des4-1">
+                                            <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs…</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="distance2" class="row">
+                                    <div class="col-3">
+                                        <div class="date" >
+                                            <div><img src="img/ico_time.svg" alt=""></div>
+                                            <div class="txtdate">30 พ.ศ 2564</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-9">
+                                        <div class="des4-1">
+                                            <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs…</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="distance2" class="row">
+                                    <div class="col-3">
+                                        <div class="date" >
+                                            <div><img src="img/ico_time.svg" alt=""></div>
+                                            <div class="txtdate">30 พ.ศ 2564</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-9">
+                                        <div class="des4-1">
+                                            <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs…</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">                              
+                                    <div class="col-12">
+                                        <div type="button" id="btncontent2" ><img src="img/btncon.svg" alt=""></div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-6">
+                                        <div class="txttable">
+                                            <div id="formm">แบบสำรวจความคิดเห็น</div>
+                                            <div>ท่านคิดว่า องค์การบริหารส่วนตำบลบ้านใหม่ <br>ควรเน้นหนักแก้ไขปัญหาเรื่องใดเป็น อันดับแรก?</div>
+                                            
+                                            <div id="radio" class="row">
+                                                <div class="rowA">
+                                                    <div class="radio"></div>
+                                                    <div class="div">แก้ไขปัญหายาเสพติด</div>
+                                                </div>
+                                                <div class="rowA">
+                                                    <div class="radio"></div>
+                                                    <div class="div">แก้ไขปัญหาสิ่งแวดล้อม</div>
+                                                </div>
+                                                <div class="rowA">
+                                                    <div class="radio"></div>
+                                                    <div class="div">ปรับปรุงระบบสาธารณูปโภค</div>
+                                                </div>
+                                                <div class="rowA">
+                                                    <div class="radio"></div>
+                                                    <div class="div">จัดมาตรการป้องกันน้ำท่วม</div>
+                                                </div>
+                                                <img id="vote" src="img/btn_vote.svg" alt="">
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-6">
+                                        <div class="column">
+                                            <div class="AA col-2">
+                                                <p id="txttable">จำนวนผู้เข้าชมเว็บไซต์</p>
+                                            </div>
+                                            <div class="BB col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>ขณะนี้</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend">10</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="CC col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>วันนี้</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend">50</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="BB col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>สัปดาห์นี้</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend2">150</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="CC col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>เดือนนี้</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend2">230</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="BB col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>ปีนี้</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend2">500</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="DD col-2">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="stable2" >
+                                                            <div><img src="img/Icon_time_yellow.svg" alt=""></div>
+                                                            <div>ทั้งหมด</div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="stable" >
+                                                            <div id="txtend3">1045</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="fb" ></div>
+                            </div>
+                        </div>
                         
+                        <div class="row">
+                            <div id="flex-row" class="flex-row">
+                          
+                                <img type="button" src="img/arrow_outbnn.svg" alt="">
+
+                                <div class="col-2">
+                                <div><img type="button" src="img/img1.png" alt=""></div>
+                                </div>
+                                <div class="col-2">
+                                <div><img type="button" src="img/img2.png" alt=""></div>
+                                </div>
+                                <div class="col-2">
+                                <div><img type="button" src="img/img3.png" alt=""></div>
+                                </div>
+                                <div class="col-2">
+                                <div><img type="button" src="img/img4.png" alt=""></div>
+                                </div>
+                                <div class="col-2">
+                                <div><img type="button" src="img/img5.png" alt=""></div>
+                                </div>
+
+                                <img type="button" id="ar-rv" src="img/arrow_outbnn.svg" alt="">
+                            </div>
+
+                            <div class="row">                              
+                                    <div class="col-12">
+                                        <div type="button" id="btncontent3" ><img src="img/btncon.svg" alt=""></div>
+                                    </div>
+                                </div>
+                        </div>
+
+                        <div id="ftdt" class="row">
+                            <div class="column col-2">
+                                <img src="img/logobtm.png" alt="">
+                            </div>
+                            <div class="column col-5">
+                                <div id="ii">องค์การบริหารส่วนตำบลบ้านใหม่</div>
+                                <div id="jj">Banmai Subdistrict Administrative Organization</div>
+                                <div id="kx">หมู่ที่ 3 ตำบลบ้านใหม่ อำเภอเมือง จังหวัดฉะเชิงเทรา</div>
+
+                                <div class="row">
+                                    <div class="column col-2">
+                                        <div id="kk">โทรศัพท์</div>
+                                        <div id="kk">โทรสาร</div>
+                                        <div id="kk">Email</div>
+                                    </div>
+                                    <div class="column col-10">
+                                        <div id="kk">: 0-3359-0336</div>
+                                        <div id="kk">: 0-3359-0336</div>
+                                        <div id="kk">: 0-3359-0336</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column col-5">
+                                <div id="ABC">
+                                    <div id="email"> &nbsp;ตรวจสอบอีเมล์</div>
+                                </div>
+                                <div id="ABC">
+                                <div id="home"> &nbsp;เว็บเพื่อนบ้าน</div>
+                                </div>
+                                <div id="ABC">
+                                <div id="person"> &nbsp; เว็บมาสเตอร์</div>
+                                </div>
+                                
+                            </div>
+
+                        </div>
                     </div>  
                 </div>
             </div> 
+            
         </section>
+        
+
+        <section id="footer">
+            <div class="footer"></div>
+        </section>
+
   
 </body>
 </html>

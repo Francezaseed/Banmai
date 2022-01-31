@@ -79,6 +79,10 @@
     left: 50%;
     margin-left: -800px;
 }
+.imageManager img{
+    height: 50%;
+}
+
 #bgmng{
     margin-top: -10px;
 }
@@ -108,7 +112,9 @@
     border-radius: 20px;
    
 }
-
+#cttop{
+    padding-top: 50px;
+}
 .txtan{
     white-space: nowrap;
     color: rgb(0, 0, 0);
@@ -381,7 +387,7 @@
 
 .rectangleContent{
     width: 1600px;
-    height: 4271px;
+    height: 4900px;
     background: transparent linear-gradient(0deg, #FEE3AC 0%, #FFAF94 100%) 0% 0% no-repeat padding-box;
     margin-top: 750px;
 }
@@ -676,13 +682,11 @@
     padding-top: 47px;
 }
 .news {
-    
     background-image: url('img/news.png');
     max-width: 150%;
     height: 100%;
     background-size: 100% 100%;
     margin-right: -25px;
-    
 }
 .des2-1{
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -757,7 +761,10 @@
     justify-content: center;
     align-items: center;
     font-size: 16px;
-    padding: 10px 20px 0px 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-left: 15px;
     max-width: 99%;
 }
 .date img{
@@ -782,4 +789,326 @@
 }
 #gon1{
     font-size: 14px;
+}
+.rectangleE{
+    left: 505px;
+    width: 210px;
+    height: 58px;
+    background: transparent linear-gradient(150deg, #EAD3F0 0%, #C662EF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 5px 5px 6px #00000082;
+    border-radius: 13px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.rectangleE .G::before{
+    content: "หนังสือราชการจากกรม";
+    color: #FFFFFF;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+}
+.rectangleE .H::before{
+    content: "ส่งเสริมการปกครองท้องถิ่น";
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-top: 28px;
+    margin-left: -155px;
+}
+.rectangleF{
+    left: 505px;
+    width: 168px;
+    height: 58px;
+    background: transparent linear-gradient(150deg, #EAD3F0 0%, #C662EF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 5px 5px 6px #00000082;
+    border-radius: 13px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: -20px;
+}
+.rectangleF .I::before{
+    content: "หนังสือราชการ";
+    color: #FFFFFF;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+}
+.rectangleF .J::before{
+    content: "จากท้องถิ่นจังหวัด";
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-top: 28px;
+    margin-left: -102px;
+}
+#dtbt{
+    margin-bottom: 10px;
+}
+.des4-1{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    max-width: 100%;
+    padding-left: 5px;
+    padding-right: 70px;
+    padding-top: 10px;
+    margin-left: -60px;
+}
+#distance2{
+    padding-top: 10px;
+    margin-right: -60px;
+}
+#btncontent2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 40px;
+}
+.txttable{
+    width: 438px;
+    height: 295px;
+    background: #FFFFFF 0% 0%;
+    border-radius: 19px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+.table2{
+    width: 437px;
+    height: 48px;
+    background: transparent linear-gradient(180deg, #EAD3F0 0%, #C662EF 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.column .AA{
+    width: 97%;
+    height: 48px;
+    background: transparent linear-gradient(180deg, #EAD3F0 0%, #C662EF 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.column .BB{
+    width: 97%;
+    height: 40px;
+    background: #E8E8E8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.column .CC{
+    width: 97%;
+    height: 40px;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.column .DD{
+    background-color: #FFFFFF;
+    width: 97%;
+    height: 50px;
+    opacity: 1;
+}
+#txttable{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.stable{
+    display: flex;
+    flex-direction: row;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.stable img{
+    margin-top: -5px;
+    margin-right: 5px;
+}
+#txtend{
+    padding-left: 170px;
+}
+.stable2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.stable2 img{
+    margin-top: -5px;
+    margin-right: 5px;
+}
+#txtend2{
+    padding-left: 164px;
+}
+#txtend3{
+    padding-left: 135px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.radio{
+    width: 12px;
+    height: 12px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #BBBBBB;
+    margin-top: 6px;
+    margin-right: 10px;
+}
+.rowA{
+    display: flex;
+    flex-direction: row;
+}
+#vote{
+    width: 110px;
+    height: 60px;
+}
+#formm{
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+#radio{
+    padding-top: 15px;
+}
+.fb{
+    background-image: url('img/fb.png');
+    max-width: 93%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: -8px;
+    margin-top: 100px;
+    z-index: 1;
+}
+#flex-row{
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+}
+.flex-row .col-2{
+    margin-right: 0px;
+}
+.flex-row .col-2 img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px #69696982;
+}
+#ar-rv{
+    transform: scaleX(-1);
+}
+#btncontent3{
+    display: flex;
+    justify-content: center;;
+    align-items: center;
+    margin-top: 40px;
+    margin-right: 5px;
+    margin-bottom: 40px; 
+}
+.bgcontent{
+    position: absolute;
+    width: 1600px;
+    left: 50%;
+    margin-left: -800px;
+    padding-top: 3600px;
+}
+.bgfooter-pic{
+    position: absolute;
+    width: 1600px;
+    left: 50%;
+    margin-left: -800px;
+    padding-top: 4450px;
+}
+.bgfooter{
+    position: absolute;
+    width: 1600px;
+    left: 50%;
+    margin-left: -800px;
+    padding-top: 5200px;
+}
+
+#ftdt{
+    padding-top: 850px;
+}
+#footer{
+    position: relative;
+    padding-top: 5500px;
+    margin: -160px auto 0;
+    height: 2000px;
+    top: -500px;
+    margin-bottom: -400px;
+}
+.footer{
+    width: 1600px;
+    height: 72px;
+    position: absolute;
+    width: 1600px;
+    left: 50%;
+    margin-left: -800px;
+    background: #FFAF92 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#email{
+    width: 160px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+}
+#email::before{
+    content: url("img/ico_website01.svg");
+}
+#home{
+    margin-top: 10px;
+    width: 160px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+}
+#home::before{
+    content: url("img/ico_website02.svg");
+}
+#person{
+    margin-top: 10px;
+    width: 160px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+}
+#person::before{
+    content: url("img/ico_website03.svg");
+}
+#ABC{
+    display: flex;
+    justify-content: flex-end;
+
+}
+#ii{
+    font-size: 36px;
+    font-weight: bold;
+}
+#jj{
+    margin-top: -10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+#kx{
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+#kk{
+    font-size: 20px;
 }
