@@ -1,0 +1,21 @@
+<svg id="bg_inbnn_even" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="281" height="96" viewBox="0 0 281 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.97" y1="0.923" x2="0.288" y2="0.293" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e2e2e2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.57" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ebebeb"/>
+    </radialGradient>
+  </defs>
+  <path id="Path_1666" data-name="Path 1666" d="M35,0H236a35,35,0,0,1,0,70H35A35,35,0,0,1,35,0Z" transform="translate(10 13)" fill="url(#linear-gradient)"/>
+  <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(8 8)" stroke="#fff" stroke-width="1" fill="url(#radial-gradient)">
+    <circle cx="40" cy="40" r="40" stroke="none"/>
+    <circle cx="40" cy="40" r="39.5" fill="none"/>
+  </g>
+  <g id="Ellipse_18" data-name="Ellipse 18" fill="none" stroke="#fff" stroke-width="1">
+    <circle cx="48" cy="48" r="48" stroke="none"/>
+    <circle cx="48" cy="48" r="47.5" fill="none"/>
+  </g>
+</svg>
